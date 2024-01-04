@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilnishad99
 - 👀 I’m interested in web development
-  - 🌱 I’m currently learning recat js
+  - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on frontend project and UI / UX
 - 📫 How to reach me sunilsn0098@gmail.com
 
